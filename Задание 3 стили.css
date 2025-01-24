@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Задание №3*</title>
+    <link rel="stylesheet" href="styles3.css"> 
+    <style>
+    .none{list-style-type:none;}   
+    </style>   
+</head>
+<body>
+<a href="task_main.html">Вернуться к списку заданий</a>
+<p style="color:red">Это красный текст</p>
+<p style="color:green">Это зелёный текст</p>
+<p><i>Этот текст написан курсивом</i></p>
+<p><b>Это полужирный текст</b></p>
+
+<p>
+    <h3><li class="none"; style="color:green">Этот элемент списка зелёный
+    </li></h3>
+    <ol>
+        <li style="color:red">Этот элемент подсписка красный</li>
+        <li style="color:blue">Этот элемент подсписка синий</li>    
+    </ol>
+</p>
+</body>
+</html>
